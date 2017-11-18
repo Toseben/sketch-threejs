@@ -1,6 +1,7 @@
+const THREE = require('three/build/three.js');
 const glslify = require('glslify');
 const GEOMETRY_RADIUS = 110;
-const GEOMETRY_DETAIL = 2;
+const GEOMETRY_DETAIL = 3;
 
 export default class Beam {
   constructor() {

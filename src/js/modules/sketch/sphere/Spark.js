@@ -1,3 +1,4 @@
+const THREE = require('three/build/three.js');
 const glslify = require('glslify');
 const GEOMETRY_RADIUS = 120;
 const GEOMETRY_DETAIL = 4;

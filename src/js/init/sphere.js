@@ -1,3 +1,5 @@
+const THREE = require('three/build/three.js');
+
 import FlatShell from '../modules/sketch/sphere/FlatShell';
 import FlatShellCore from '../modules/sketch/sphere/FlatShellCore';
 import Spark from '../modules/sketch/sphere/Spark';
